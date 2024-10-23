@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[createcustomer]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-23T10:08:46 IST" name="Suite" finished-at="2024-10-23T10:08:46 IST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T10:08:46 IST" name="Test" finished-at="2024-10-23T10:08:46 IST" duration-ms="53">
+      <class name="com.actitime.test.Createcustomer">
+        <test-method signature="create()[pri:0, instance:com.actitime.test.Createcustomer@71d44a3]" started-at="2024-10-23T10:08:46 IST" name="create" finished-at="2024-10-23T10:08:46 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- com.actitime.test.Createcustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
